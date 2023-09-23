@@ -1,3 +1,9 @@
+API DESATUALIZADA
+a api atualizada se encontra em meu notebook
+para mais infomações contateme pelas minhas redes sociais
+para comprovação de sua ultima atualização espere por uma atualização na segunda,
+estarei desponivel e terei como provar a data da ultima modificação a partir de segunda as 12:45
+
 Para rodar o código basta apenas rodar o comando: 
 python -m venv .env
 Ativar esta mesma:
