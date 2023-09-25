@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Projeto
 Este projeto foi criado por mim, Renan Henrique de Oliveira, com a finalidade de ser entrege para os doscentes do SENAI São Gaspar Ricardo Jr. de forma que possa ser avaliado de acordo com critérios préviamente impostos.
 
